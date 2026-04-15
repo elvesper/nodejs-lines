@@ -2,3 +2,4 @@ Node.js is a powerful JavaScript runtime that allows developers to build scalabl
 Node.js is the fastest way to build server-side applications with JavaScript, making it a popular choice for building scalable web services.
 A fun fact about Node.js is that it's built on the JavaScript runtime, which is used to create web applications.
 Node.js was developed by Ryan C. Martin, a web developer, who created it to allow JavaScript to run on the browser and beyond.
+Node.js, the dynamic server runtime, is known for its powerful async JavaScript.
