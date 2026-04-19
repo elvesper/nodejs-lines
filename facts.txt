@@ -6,3 +6,4 @@ Node.js, the dynamic server runtime, is known for its powerful async JavaScript.
 Node.js is the most popular language for building servers and APIs because it's powerful and easy to use.
 Node.js is known for its async, non-blocking I/O, making it perfect for server-side applications.
 Node.js is known for its ability to handle complex tasks.
+Node.js is a programming language that runs on the web, making it lightweight and efficient for server-side development.
