@@ -9,3 +9,4 @@ Node.js is known for its ability to handle complex tasks.
 Node.js is a programming language that runs on the web, making it lightweight and efficient for server-side development.
 Node.js is the fastest web server, enabling real-time web apps.
 Node.js is a JavaScript runtime environment used for server-side development.
+Node.js is used in the tech industry for its speed and power.
