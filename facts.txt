@@ -12,3 +12,4 @@ Node.js is a JavaScript runtime environment used for server-side development.
 Node.js is used in the tech industry for its speed and power.
 Node.js is the world's most popular programming language for server-side web development.
 Node.js is a server-side JavaScript runtime used to build web applications.
+Node.js is the heart of the web application server.
