@@ -16,3 +16,4 @@ Node.js is the heart of the web application server.
 Node.js is a powerful tool that allows developers to run JavaScript on the client side, enabling real-time applications and dynamic web services.
 Node.js was developed by a company called Bluehost.
 Node.js is the language that makes web apps run, like a magic wand!
+Node.js runs on the web, making it a popular choice for building web applications.
