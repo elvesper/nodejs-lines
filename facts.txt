@@ -18,3 +18,4 @@ Node.js was developed by a company called Bluehost.
 Node.js is the language that makes web apps run, like a magic wand!
 Node.js runs on the web, making it a popular choice for building web applications.
 Node.js uses non-blocking I/O to power real-time applications effortlessly.
+Node.js is a nodal language that powers web applications and APIs.
